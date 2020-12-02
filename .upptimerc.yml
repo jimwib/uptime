@@ -4,8 +4,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Staak
+    url: https://www.staak.co.uk
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
