@@ -5,38 +5,38 @@
     "slug": "staak",
     "status": "up",
     "uptime": "100.00%",
-    "time": 219
+    "time": 427
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Bleeding Edge",
+    "url": "https://bleedingedge.com",
+    "slug": "bleeding-edge",
     "status": "up",
     "uptime": "100.00%",
-    "time": 67
+    "time": 1408
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Bleeding Edge Forums",
+    "url": "https://forum.bleedingedge.com",
+    "slug": "bleeding-edge-forums",
     "status": "up",
     "uptime": "100.00%",
-    "time": 177
+    "time": 1162
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Monster",
+    "url": "https://www.monsterhalopromotion.com",
+    "slug": "monster",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 769
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "Johnson Gibbs",
+    "url": "https://johnsongibbs.co.uk",
+    "slug": "johnson-gibbs",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 1180
   }
 ]
