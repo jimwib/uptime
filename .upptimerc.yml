@@ -6,15 +6,14 @@ repo: uptime # Your Github repository name
 sites:
   - name: Staak
     url: https://www.staak.co.uk
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: Bleeding Edge
+    url: https://bleedingedge.com
+  - name: Bleeding Edge Forums
+    url: https://forum.bleedingedge.com
+  - name: Monster
+    url: https://www.monsterhalopromotion.com
+  - name: Johnson Gibbs
+    url: https://johnsongibbs.co.uk
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
