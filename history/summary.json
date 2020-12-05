@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 435,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435
+    "time": 453,
+    "timeDay": 264,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453
   },
   {
     "name": "Bleeding Edge",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1126,
-    "timeDay": 1126,
-    "timeWeek": 1126,
-    "timeMonth": 1126,
-    "timeYear": 1126
+    "time": 1158,
+    "timeDay": 935,
+    "timeWeek": 1158,
+    "timeMonth": 1158,
+    "timeYear": 1158
   },
   {
     "name": "Bleeding Edge Forums",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 1339,
-    "timeWeek": 1339,
-    "timeMonth": 1339,
-    "timeYear": 1339
+    "time": 1443,
+    "timeDay": 879,
+    "timeWeek": 1443,
+    "timeMonth": 1443,
+    "timeYear": 1443
   },
   {
     "name": "Monster",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 648,
-    "timeWeek": 648,
-    "timeMonth": 648,
-    "timeYear": 648
+    "time": 805,
+    "timeDay": 562,
+    "timeWeek": 805,
+    "timeMonth": 805,
+    "timeYear": 805
   },
   {
     "name": "Johnson Gibbs",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 841,
-    "timeWeek": 841,
-    "timeMonth": 841,
-    "timeYear": 841
+    "time": 821,
+    "timeDay": 855,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821
   },
   {
     "name": "Gymbox",
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444
+    "time": 496,
+    "timeDay": 382,
+    "timeWeek": 496,
+    "timeMonth": 496,
+    "timeYear": 496
   }
 ]
