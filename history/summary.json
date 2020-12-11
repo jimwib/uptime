@@ -4,18 +4,20 @@
     "url": "https://www.staak.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.staak.co.uk",
     "slug": "staak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 294,
-    "timeWeek": 310,
-    "timeMonth": 385,
-    "timeYear": 385,
-    "dailyMinutesDown": {}
+    "time": 2065,
+    "timeDay": 11257,
+    "timeWeek": 3048,
+    "timeMonth": 2065,
+    "timeYear": 2065,
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "Bleeding Edge",
