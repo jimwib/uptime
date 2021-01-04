@@ -16,6 +16,8 @@ sites:
     url: https://johnsongibbs.co.uk
   - name: Gymbox
     url: https://www.gymbox.com
+  - name: Haark Api
+    url: https://api.haark.app
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
