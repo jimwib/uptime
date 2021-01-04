@@ -18,6 +18,10 @@ sites:
     url: https://www.gymbox.com
   - name: Haark Api
     url: https://api.haark.app
+  - name: Ninja Theory
+    url: https://ninjatheory.com
+  - name: Ninja Theory Api
+    url: https://api.ninjatheory.com
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
