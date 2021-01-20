@@ -64,9 +64,9 @@
     "url": "https://www.monsterhalopromotion.com",
     "icon": "https://favicons.githubusercontent.com/www.monsterhalopromotion.com",
     "slug": "monster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 610,
     "timeMonth": 503,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "Johnson Gibbs",
@@ -119,18 +121,18 @@
     "icon": "https://favicons.githubusercontent.com/api.haark.app",
     "slug": "haark-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.34%",
+    "uptimeDay": "89.35%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 525,
     "timeDay": 503,
     "timeWeek": 512,
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2021-01-20": 0
+      "2021-01-20": 153
     }
   },
   {
