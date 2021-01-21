@@ -1,7 +1,7 @@
 url: https://api.haark.app
-status: up
-code: 200
-responseTime: 540
-lastUpdated: 2021-01-20T23:52:09.700Z
+status: down
+code: 503
+responseTime: 392
+lastUpdated: 2021-01-21T08:28:08.812Z
 startTime: Mon Jan 04 2021 21:19:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
