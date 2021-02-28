@@ -13,7 +13,7 @@
     "time": 641,
     "timeDay": 265,
     "timeWeek": 334,
-    "timeMonth": 349,
+    "timeMonth": 353,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2021-02-25": 30,
@@ -36,7 +36,7 @@
     "time": 1055,
     "timeDay": 864,
     "timeWeek": 926,
-    "timeMonth": 1005,
+    "timeMonth": 1004,
     "timeYear": 1055,
     "dailyMinutesDown": {}
   },
@@ -54,7 +54,7 @@
     "time": 1542,
     "timeDay": 2011,
     "timeWeek": 1581,
-    "timeMonth": 1575,
+    "timeMonth": 1596,
     "timeYear": 1542,
     "dailyMinutesDown": {
       "2021-01-28": 23,
@@ -80,7 +80,7 @@
     "time": 517,
     "timeDay": 182,
     "timeWeek": 358,
-    "timeMonth": 495,
+    "timeMonth": 497,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2021-01-20": 42
@@ -100,7 +100,7 @@
     "time": 968,
     "timeDay": 666,
     "timeWeek": 860,
-    "timeMonth": 1043,
+    "timeMonth": 1026,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2021-01-24": 189
@@ -120,7 +120,7 @@
     "time": 460,
     "timeDay": 414,
     "timeWeek": 398,
-    "timeMonth": 449,
+    "timeMonth": 453,
     "timeYear": 460,
     "dailyMinutesDown": {}
   },
@@ -138,7 +138,7 @@
     "time": 502,
     "timeDay": 381,
     "timeWeek": 523,
-    "timeMonth": 481,
+    "timeMonth": 483,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2021-01-21": 60,
@@ -159,7 +159,7 @@
     "time": 788,
     "timeDay": 857,
     "timeWeek": 762,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 788,
     "dailyMinutesDown": {}
   },
@@ -169,18 +169,19 @@
     "icon": "https://favicons.githubusercontent.com/api.ninjatheory.com",
     "slug": "ninja-theory-api",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.79%",
+    "uptimeDay": "93.54%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 925,
     "timeDay": 0,
     "timeWeek": 724,
-    "timeMonth": 937,
+    "timeMonth": 945,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2021-02-27": 0,
+      "2021-02-28": 55,
+      "2021-02-27": 38,
       "2021-01-12": 69
     }
   }
