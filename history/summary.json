@@ -74,17 +74,17 @@
     "url": "https://www.monsterhalopromotion.com",
     "icon": "https://favicons.githubusercontent.com/www.monsterhalopromotion.com",
     "slug": "monster",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 465,
-    "timeWeek": 523,
-    "timeMonth": 570,
-    "timeYear": 528,
+    "time": 527,
+    "timeDay": 458,
+    "timeWeek": 514,
+    "timeMonth": 567,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2021-01-20": 42
     }
