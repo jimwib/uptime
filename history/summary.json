@@ -53,11 +53,11 @@
     "icon": "https://favicons.githubusercontent.com/forum.bleedingedge.com",
     "slug": "bleeding-edge-forums",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 1566,
     "timeDay": 1038,
     "timeWeek": 1360,
@@ -102,9 +102,9 @@
     "url": "https://johnsongibbs.co.uk",
     "icon": "https://favicons.githubusercontent.com/johnsongibbs.co.uk",
     "slug": "johnson-gibbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -114,6 +114,7 @@
     "timeMonth": 878,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2021-08-09": 0,
       "2021-01-24": 189
     }
   },
