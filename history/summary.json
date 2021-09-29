@@ -34,9 +34,9 @@
     "url": "https://bleedingedge.com",
     "icon": "https://favicons.githubusercontent.com/bleedingedge.com",
     "slug": "bleeding-edge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -45,7 +45,9 @@
     "timeWeek": 1072,
     "timeMonth": 1025,
     "timeYear": 1010,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "Bleeding Edge Forums",
