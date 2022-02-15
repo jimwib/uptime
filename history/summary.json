@@ -52,9 +52,9 @@
     "slug": "bleeding-edge-forums",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1522,
     "timeDay": 2336,
@@ -62,7 +62,6 @@
     "timeMonth": 1326,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2022-02-15": 7,
       "2021-05-30": 16,
       "2021-03-02": 33
     }
@@ -130,9 +129,9 @@
     "url": "https://ninjatheory.com",
     "icon": "https://favicons.githubusercontent.com/ninjatheory.com",
     "slug": "ninja-theory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -142,6 +141,7 @@
     "timeMonth": 859,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2021-11-06": 22
     }
   },
