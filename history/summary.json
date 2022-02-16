@@ -57,7 +57,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1522,
-    "timeDay": 2503,
+    "timeDay": 1296,
     "timeWeek": 1595,
     "timeMonth": 1339,
     "timeYear": 1518,
@@ -138,7 +138,7 @@
     "time": 818,
     "timeDay": 850,
     "timeWeek": 877,
-    "timeMonth": 854,
+    "timeMonth": 860,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2021-11-06": 22
@@ -149,9 +149,9 @@
     "url": "https://api.ninjatheory.com",
     "icon": "https://favicons.githubusercontent.com/api.ninjatheory.com",
     "slug": "ninja-theory-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -161,6 +161,7 @@
     "timeMonth": 743,
     "timeYear": 758,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2021-12-18": 99,
       "2021-11-06": 22,
       "2021-05-02": 21,
