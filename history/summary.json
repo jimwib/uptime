@@ -59,7 +59,7 @@
     "time": 1520,
     "timeDay": 966,
     "timeWeek": 1577,
-    "timeMonth": 1342,
+    "timeMonth": 1332,
     "timeYear": 1514,
     "dailyMinutesDown": {
       "2021-05-30": 16,
@@ -71,9 +71,9 @@
     "url": "https://johnsongibbs.co.uk",
     "icon": "https://favicons.githubusercontent.com/johnsongibbs.co.uk",
     "slug": "johnson-gibbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 900,
     "timeMonth": 841,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-19": 0
+    }
   },
   {
     "name": "Gymbox",
