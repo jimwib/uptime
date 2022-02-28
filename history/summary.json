@@ -49,18 +49,19 @@
     "url": "https://forum.bleedingedge.com",
     "icon": "https://favicons.githubusercontent.com/forum.bleedingedge.com",
     "slug": "bleeding-edge-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1520,
-    "timeDay": 1789,
-    "timeWeek": 1352,
-    "timeMonth": 1351,
-    "timeYear": 1511,
+    "time": 1548,
+    "timeDay": 8564,
+    "timeWeek": 3100,
+    "timeMonth": 1786,
+    "timeYear": 1548,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2021-05-30": 16,
       "2021-03-02": 33
     }
@@ -72,18 +73,16 @@
     "slug": "johnson-gibbs",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 845,
     "timeDay": 742,
     "timeWeek": 813,
     "timeMonth": 825,
     "timeYear": 815,
-    "dailyMinutesDown": {
-      "2022-02-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gymbox",
