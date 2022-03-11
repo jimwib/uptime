@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 507,
-    "timeDay": 200,
-    "timeWeek": 378,
-    "timeMonth": 456,
-    "timeYear": 478,
+    "timeDay": 265,
+    "timeWeek": 379,
+    "timeMonth": 446,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2022-02-02": 24,
       "2021-07-30": 38,
@@ -22,8 +22,7 @@
       "2021-07-25": 55,
       "2021-07-24": 57,
       "2021-06-04": 34,
-      "2021-03-15": 26,
-      "2021-03-10": 59
+      "2021-03-15": 26
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
-    "timeDay": 838,
-    "timeWeek": 1054,
-    "timeMonth": 972,
-    "timeYear": 1001,
+    "timeDay": 794,
+    "timeWeek": 1032,
+    "timeMonth": 955,
+    "timeYear": 1002,
     "dailyMinutesDown": {}
   },
   {
@@ -55,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1545,
-    "timeDay": 1525,
-    "timeWeek": 1605,
-    "timeMonth": 1903,
-    "timeYear": 1546,
+    "time": 1546,
+    "timeDay": 1006,
+    "timeWeek": 1524,
+    "timeMonth": 1866,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2021-05-30": 16
     }
@@ -71,18 +70,16 @@
     "slug": "johnson-gibbs",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 1303,
-    "timeWeek": 918,
-    "timeMonth": 862,
+    "time": 845,
+    "timeDay": 619,
+    "timeWeek": 934,
+    "timeMonth": 856,
     "timeYear": 818,
-    "dailyMinutesDown": {
-      "2022-03-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gymbox",
@@ -96,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 398,
-    "timeWeek": 518,
-    "timeMonth": 480,
-    "timeYear": 477,
+    "timeDay": 410,
+    "timeWeek": 495,
+    "timeMonth": 464,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -107,18 +104,19 @@
     "url": "https://api.haark.app",
     "icon": "https://favicons.githubusercontent.com/api.haark.app",
     "slug": "haark-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 437,
-    "timeDay": 292,
-    "timeWeek": 396,
-    "timeMonth": 364,
+    "time": 436,
+    "timeDay": 293,
+    "timeWeek": 385,
+    "timeMonth": 356,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2021-09-20": 22,
       "2021-09-17": 87,
       "2021-05-03": 19
@@ -135,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 680,
-    "timeWeek": 894,
-    "timeMonth": 846,
-    "timeYear": 825,
+    "time": 818,
+    "timeDay": 633,
+    "timeWeek": 827,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2021-11-06": 22
     }
@@ -156,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 773,
-    "timeDay": 529,
-    "timeWeek": 730,
-    "timeMonth": 727,
-    "timeYear": 751,
+    "timeDay": 594,
+    "timeWeek": 707,
+    "timeMonth": 719,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2021-12-18": 99,
       "2021-11-06": 22,
