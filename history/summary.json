@@ -47,18 +47,19 @@
     "url": "https://forum.bleedingedge.com",
     "icon": "https://favicons.githubusercontent.com/forum.bleedingedge.com",
     "slug": "bleeding-edge-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
+    "time": 1527,
     "timeDay": 964,
     "timeWeek": 1272,
     "timeMonth": 1761,
     "timeYear": 1534,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2021-05-30": 16
     }
   },
@@ -76,7 +77,7 @@
     "time": 839,
     "timeDay": 865,
     "timeWeek": 676,
-    "timeMonth": 757,
+    "timeMonth": 752,
     "timeYear": 812,
     "dailyMinutesDown": {}
   },
