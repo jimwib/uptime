@@ -67,9 +67,9 @@
     "url": "https://johnsongibbs.co.uk",
     "icon": "https://favicons.githubusercontent.com/johnsongibbs.co.uk",
     "slug": "johnson-gibbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,7 +78,9 @@
     "timeWeek": 676,
     "timeMonth": 752,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "Gymbox",
@@ -148,9 +150,9 @@
     "slug": "ninja-theory-api",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 806,
     "timeDay": 9271,
@@ -158,7 +160,6 @@
     "timeMonth": 1256,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2022-03-29": 6,
       "2021-12-18": 99,
       "2021-11-06": 22,
       "2021-05-02": 21
