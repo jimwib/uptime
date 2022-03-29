@@ -67,19 +67,19 @@
     "url": "https://johnsongibbs.co.uk",
     "icon": "https://favicons.githubusercontent.com/johnsongibbs.co.uk",
     "slug": "johnson-gibbs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 839,
-    "timeDay": 865,
-    "timeWeek": 676,
-    "timeMonth": 752,
-    "timeYear": 812,
+    "timeDay": 901,
+    "timeWeek": 708,
+    "timeMonth": 758,
+    "timeYear": 813,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 7
     }
   },
   {
