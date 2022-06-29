@@ -89,18 +89,19 @@
     "url": "https://www.gymbox.com",
     "icon": "https://favicons.githubusercontent.com/www.gymbox.com",
     "slug": "gymbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 479,
-    "timeDay": 418,
-    "timeWeek": 573,
-    "timeMonth": 569,
-    "timeYear": 473,
+    "time": 478,
+    "timeDay": 252,
+    "timeWeek": 512,
+    "timeMonth": 555,
+    "timeYear": 472,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-06-21": 37
     }
   },
@@ -161,7 +162,7 @@
     "timeDay": 639,
     "timeWeek": 774,
     "timeMonth": 747,
-    "timeYear": 744,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2021-12-18": 99,
       "2021-11-06": 22
