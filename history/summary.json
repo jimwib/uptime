@@ -91,9 +91,9 @@
     "slug": "gymbox",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 477,
     "timeDay": 329,
@@ -101,7 +101,7 @@
     "timeMonth": 500,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2022-06-30": 77,
+      "2022-06-30": 70,
       "2022-06-21": 37
     }
   },
@@ -110,9 +110,9 @@
     "url": "https://api.haark.app",
     "icon": "https://favicons.githubusercontent.com/api.haark.app",
     "slug": "haark-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -122,6 +122,7 @@
     "timeMonth": 429,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2022-06-30": 0,
       "2022-03-11": 31,
       "2021-09-20": 22,
       "2021-09-17": 87
