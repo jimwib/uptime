@@ -12,8 +12,6 @@ sites:
     url: https://forum.bleedingedge.com
   - name: Johnson Gibbs
     url: https://johnsongibbs.co.uk
-  - name: Gymbox
-    url: https://www.gymbox.com
   - name: Haark Api
     url: https://api.haark.app
   - name: Ninja Theory
