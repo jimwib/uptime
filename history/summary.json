@@ -13,7 +13,7 @@
     "time": 518,
     "timeDay": 442,
     "timeWeek": 611,
-    "timeMonth": 814,
+    "timeMonth": 823,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2022-07-19": 38,
@@ -37,7 +37,7 @@
     "time": 1003,
     "timeDay": 1402,
     "timeWeek": 1085,
-    "timeMonth": 1011,
+    "timeMonth": 1010,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -46,18 +46,19 @@
     "url": "https://forum.bleedingedge.com",
     "icon": "https://favicons.githubusercontent.com/forum.bleedingedge.com",
     "slug": "bleeding-edge-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1550,
+    "time": 1549,
     "timeDay": 1202,
     "timeWeek": 1294,
-    "timeMonth": 2483,
+    "timeMonth": 2501,
     "timeYear": 1534,
     "dailyMinutesDown": {
+      "2022-08-06": 0,
       "2022-07-22": 24,
       "2022-07-08": 15,
       "2022-05-12": 24,
@@ -78,7 +79,7 @@
     "time": 803,
     "timeDay": 661,
     "timeWeek": 692,
-    "timeMonth": 837,
+    "timeMonth": 838,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2022-05-02": 19
@@ -98,7 +99,7 @@
     "time": 408,
     "timeDay": 493,
     "timeWeek": 434,
-    "timeMonth": 406,
+    "timeMonth": 405,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2022-08-03": 377,
@@ -121,7 +122,7 @@
     "time": 838,
     "timeDay": 1084,
     "timeWeek": 972,
-    "timeMonth": 906,
+    "timeMonth": 904,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2021-11-06": 22
@@ -141,7 +142,7 @@
     "time": 730,
     "timeDay": 850,
     "timeWeek": 791,
-    "timeMonth": 710,
+    "timeMonth": 708,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2021-12-18": 99,
