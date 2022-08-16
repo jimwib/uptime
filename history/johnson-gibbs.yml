@@ -1,7 +1,7 @@
 url: https://johnsongibbs.co.uk
-status: up
-code: 200
-responseTime: 1000
-lastUpdated: 2022-08-15T23:05:48.895Z
+status: down
+code: 500
+responseTime: 3383
+lastUpdated: 2022-08-16T14:50:17.621Z
 startTime: Wed Dec 02 2020 12:03:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
