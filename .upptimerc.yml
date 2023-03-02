@@ -16,8 +16,10 @@ sites:
     url: https://ninjatheory.com
   - name: Ninja Theory Api
     url: https://api.ninjatheory.com
-  - name: audiologic
+  - name: Audiologic
     url: https://www.audiologic.co.uk/news-and-insights
+  - name: Audiologic ie
+    url: https://www.audiologic.ie/news-and-insights
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
