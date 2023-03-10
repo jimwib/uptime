@@ -20,6 +20,8 @@ sites:
     url: https://www.audiologic.co.uk/news-and-insights
   - name: Audiologic ie
     url: https://www.audiologic.ie/news-and-insights
+  - name: Audiologic api
+    url: https://www.audiologic.co.uk/api/user
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
