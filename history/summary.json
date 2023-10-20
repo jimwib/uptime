@@ -173,19 +173,19 @@
     "url": "https://www.audiologic.co.uk/api/user",
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.co.uk.ico",
     "slug": "audiologic-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 131,
-    "timeWeek": 126,
+    "timeDay": 114,
+    "timeWeek": 122,
     "timeMonth": 117,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-10-20": 0
+      "2023-10-20": 5
     }
   }
 ]
