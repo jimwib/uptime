@@ -22,6 +22,8 @@ sites:
     url: https://www.audiologic.ie/news-and-insights
   - name: Audiologic api
     url: https://www.audiologic.co.uk/api/user
+  - name: Bleeding Edge CMS
+    url: https://production-bleedingedge-cms.azurewebsites.net
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
