@@ -115,9 +115,9 @@
     "slug": "ninja-theory-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 931,
     "timeDay": 439,
@@ -125,7 +125,6 @@
     "timeMonth": 933,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-11-09": 5,
       "2023-03-19": 36,
       "2023-02-08": 17,
       "2022-11-18": 64
@@ -190,19 +189,19 @@
     "url": "https://production-bleedingedge-cms.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/production-bleedingedge-cms.azurewebsites.net.ico",
     "slug": "bleeding-edge-cms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 805,
-    "timeWeek": 847,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 875,
+    "timeDay": 720,
+    "timeWeek": 821,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 5
     }
   }
 ]
