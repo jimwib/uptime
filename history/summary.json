@@ -50,9 +50,9 @@
     "slug": "bleeding-edge-forums",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1523,
     "timeDay": 1114,
@@ -60,7 +60,6 @@
     "timeMonth": 1364,
     "timeYear": 1366,
     "dailyMinutesDown": {
-      "2023-11-10": 7,
       "2023-03-14": 218
     }
   },
