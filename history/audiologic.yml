@@ -1,7 +1,7 @@
 url: https://www.audiologic.co.uk/news-and-insights
-status: up
-code: 200
-responseTime: 923
-lastUpdated: 2023-12-02T23:05:05.583Z
+status: down
+code: 500
+responseTime: 1047
+lastUpdated: 2023-12-03T21:07:24.170Z
 startTime: 2023-02-23T16:31:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
