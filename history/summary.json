@@ -168,18 +168,20 @@
     "url": "https://www.audiologic.co.uk/api/user",
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.co.uk.ico",
     "slug": "audiologic-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 97,
-    "timeWeek": 128,
-    "timeMonth": 121,
-    "timeYear": 138,
-    "dailyMinutesDown": {}
+    "time": 139,
+    "timeDay": 349,
+    "timeWeek": 187,
+    "timeMonth": 136,
+    "timeYear": 139,
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Bleeding Edge CMS",
