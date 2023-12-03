@@ -128,36 +128,40 @@
     "url": "https://www.audiologic.co.uk/news-and-insights",
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.co.uk.ico",
     "slug": "audiologic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1041,
-    "timeDay": 923,
-    "timeWeek": 1092,
+    "timeDay": 985,
+    "timeWeek": 1087,
     "timeMonth": 1038,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Audiologic ie",
     "url": "https://www.audiologic.ie/news-and-insights",
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1241,
-    "timeDay": 982,
-    "timeWeek": 1369,
-    "timeMonth": 1262,
+    "timeDay": 1109,
+    "timeWeek": 1352,
+    "timeMonth": 1261,
     "timeYear": 1241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Audiologic api",
