@@ -21,7 +21,7 @@ sites:
   - name: Audiologic ie
     url: https://www.audiologic.ie/news-and-insights
   - name: Audiologic api
-    url: https://www.audiologic.co.uk/api/user
+    url: https://admin.audiologic.co.uk/api/articles
   - name: Bleeding Edge CMS
     url: https://production-bleedingedge-cms.azurewebsites.net
 status-website:
