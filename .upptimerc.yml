@@ -26,6 +26,10 @@ sites:
     url: https://admin.audiologic.co.uk/api/articles
   - name: Bleeding Edge CMS
     url: https://production-bleedingedge-cms.azurewebsites.net
+  - name: Senuas Saga Home
+    url: https://senuassaga.com
+  - name: Senuas Saga News
+    url: https://senuassaga.com/news
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
