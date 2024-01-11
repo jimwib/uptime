@@ -209,19 +209,19 @@
     "url": "https://production-bleedingedge-cms.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/production-bleedingedge-cms.azurewebsites.net.ico",
     "slug": "bleeding-edge-cms",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 0,
-    "timeWeek": 1159,
-    "timeMonth": 1060,
-    "timeYear": 1067,
+    "time": 1062,
+    "timeDay": 706,
+    "timeWeek": 1094,
+    "timeMonth": 1049,
+    "timeYear": 1062,
     "dailyMinutesDown": {
-      "2024-01-11": 0
+      "2024-01-11": 1
     }
   },
   {
