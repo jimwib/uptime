@@ -208,9 +208,9 @@
     "url": "https://production-bleedingedge-cms.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/production-bleedingedge-cms.azurewebsites.net.ico",
     "slug": "bleeding-edge-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 934,
     "timeMonth": 1013,
     "timeYear": 1042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Senuas Saga Home",
