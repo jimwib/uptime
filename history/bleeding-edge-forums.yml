@@ -1,7 +1,7 @@
 url: https://forum.bleedingedge.com
-status: up
-code: 200
-responseTime: 1805
-lastUpdated: 2024-01-30T23:05:32.305Z
+status: down
+code: 503
+responseTime: 26886
+lastUpdated: 2024-01-30T23:48:23.635Z
 startTime: 2020-12-02T12:03:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
