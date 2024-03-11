@@ -163,18 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "90.11%",
+    "uptime": "89.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "89.86%",
+    "uptimeYear": "89.64%",
     "time": 1186,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2024-03-11": 22,
+      "2024-03-11": 1157,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -221,7 +221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.audiologic.co.uk.ico",
     "slug": "audiologic-api",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -260,10 +260,10 @@
     "url": "https://senuassaga.com",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1005,
@@ -271,16 +271,18 @@
     "timeWeek": 1112,
     "timeMonth": 1008,
     "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-11": 2
+    }
   },
   {
     "name": "Senuas Saga News",
     "url": "https://senuassaga.com/news",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -289,6 +291,8 @@
     "timeWeek": 247,
     "timeMonth": 213,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-11": 0
+    }
   }
 ]
