@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2024-03-16": 971,
+      "2024-03-16": 980,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -246,19 +246,19 @@
     "url": "https://production-bleedingedge-cms.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/production-bleedingedge-cms.azurewebsites.net.ico",
     "slug": "bleeding-edge-cms",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 1021,
-    "timeWeek": 939,
-    "timeMonth": 948,
-    "timeYear": 1014,
+    "time": 1013,
+    "timeDay": 951,
+    "timeWeek": 932,
+    "timeMonth": 946,
+    "timeYear": 1013,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
