@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2024-03-19": 1067,
+      "2024-03-19": 1071,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
@@ -267,19 +267,19 @@
     "url": "https://senuassaga.com",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 893,
-    "timeWeek": 938,
-    "timeMonth": 1039,
-    "timeYear": 1006,
+    "time": 1003,
+    "timeDay": 835,
+    "timeWeek": 918,
+    "timeMonth": 1032,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2024-03-19": 2
+      "2024-03-19": 5
     }
   },
   {
