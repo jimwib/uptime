@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-05-11": 149,
+      "2024-05-11": 158,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -323,10 +323,10 @@
     "url": "https://senuassaga.com",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1087,
@@ -334,7 +334,9 @@
     "timeWeek": 2759,
     "timeMonth": 1379,
     "timeYear": 1087,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-11": 2
+    }
   },
   {
     "name": "Senuas Saga News",
@@ -342,18 +344,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-news",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 368,
     "timeDay": 1246,
     "timeWeek": 547,
     "timeMonth": 556,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-11": 0
+      "2024-05-11": 9
     }
   }
 ]
