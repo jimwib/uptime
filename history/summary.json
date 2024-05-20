@@ -163,7 +163,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "75.79%",
+    "uptime": "75.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2024-05-20": 1160,
+      "2024-05-20": 1177,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -332,19 +332,19 @@
     "url": "https://senuassaga.com",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-home",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 1126,
     "timeDay": 4119,
     "timeWeek": 1755,
     "timeMonth": 1579,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2024-05-20": 5,
+      "2024-05-20": 2,
       "2024-05-11": 25
     }
   },
@@ -353,9 +353,9 @@
     "url": "https://senuassaga.com/news",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -365,6 +365,7 @@
     "timeMonth": 562,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2024-05-20": 0,
       "2024-05-11": 33
     }
   }
