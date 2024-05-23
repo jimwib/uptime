@@ -124,19 +124,19 @@
     "url": "https://api.ninjatheory.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.ninjatheory.com.ico",
     "slug": "ninja-theory-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 5610,
-    "timeWeek": 1775,
-    "timeMonth": 850,
-    "timeYear": 899,
+    "time": 887,
+    "timeDay": 3930,
+    "timeWeek": 1641,
+    "timeMonth": 842,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 10
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2024-05-23": 183,
+      "2024-05-23": 193,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
