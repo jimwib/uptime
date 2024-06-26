@@ -127,18 +127,16 @@
     "slug": "ninja-theory-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 853,
     "timeDay": 665,
     "timeWeek": 690,
     "timeMonth": 669,
     "timeYear": 885,
-    "dailyMinutesDown": {
-      "2024-06-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Audiologic",
@@ -166,18 +164,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "70.03%",
+    "uptime": "70.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.45%",
+    "uptimeYear": "60.41%",
     "time": 1186,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-06-26": 523,
+      "2024-06-26": 708,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -352,9 +350,9 @@
     "url": "https://production-bleedingedge-cms.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/production-bleedingedge-cms.azurewebsites.net.ico",
     "slug": "bleeding-edge-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -364,6 +362,7 @@
     "timeMonth": 1154,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-05-04": 16
     }
   },
