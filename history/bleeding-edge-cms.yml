@@ -1,7 +1,7 @@
 url: https://production-bleedingedge-cms.azurewebsites.net
-status: up
-code: 200
-responseTime: 1582
-lastUpdated: 2025-02-19T23:06:02.655Z
+status: down
+code: 500
+responseTime: 597
+lastUpdated: 2025-02-20T06:10:10.657Z
 startTime: 2023-10-23T12:41:03.117Z
 generator: Upptime <https://github.com/upptime/upptime>
