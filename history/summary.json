@@ -4,9 +4,9 @@
     "url": "https://www.staak.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.staak.co.uk.ico",
     "slug": "staak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 271,
     "timeMonth": 279,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "Bleeding Edge",
@@ -48,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.bleedingedge.com.ico",
     "slug": "bleeding-edge-forums",
     "status": "down",
-    "uptime": "88.51%",
+    "uptime": "88.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.79%",
+    "uptimeYear": "45.71%",
     "time": 2382,
     "timeDay": 506,
     "timeWeek": 3374,
     "timeMonth": 2127,
     "timeYear": 2380,
     "dailyMinutesDown": {
-      "2025-08-27": 31,
+      "2025-08-27": 458,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -369,7 +371,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "37.14%",
+    "uptime": "37.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -380,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 31,
+      "2025-08-27": 458,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
