@@ -4,19 +4,19 @@
     "url": "https://www.staak.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.staak.co.uk.ico",
     "slug": "staak",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 318,
-    "timeWeek": 273,
-    "timeMonth": 281,
+    "timeDay": 320,
+    "timeWeek": 277,
+    "timeMonth": 282,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 6
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 2354,
     "timeYear": 2398,
     "dailyMinutesDown": {
-      "2025-08-28": 1194,
+      "2025-08-28": 1200,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -382,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 1195,
+      "2025-08-28": 1200,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
