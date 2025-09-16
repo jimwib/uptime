@@ -59,7 +59,7 @@
     "timeMonth": 2423,
     "timeYear": 2362,
     "dailyMinutesDown": {
-      "2025-09-16": 1329,
+      "2025-09-16": 1341,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-16": 1330,
+      "2025-09-16": 1341,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -845,19 +845,19 @@
     "url": "https://senuassaga.com/news",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 983,
-    "timeWeek": 1127,
-    "timeMonth": 1195,
-    "timeYear": 308,
+    "time": 299,
+    "timeDay": 2740,
+    "timeWeek": 1697,
+    "timeMonth": 1348,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-09-16": 0
+      "2025-09-16": 11
     }
   }
 ]
