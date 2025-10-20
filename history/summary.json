@@ -53,7 +53,7 @@
     "uptime": "86.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.08%",
+    "uptimeMonth": "47.10%",
     "uptimeYear": "34.68%",
     "time": 2306,
     "timeDay": 1301,
@@ -308,11 +308,11 @@
     "url": "https://johnsongibbs.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/johnsongibbs.co.uk.ico",
     "slug": "johnson-gibbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
     "timeDay": 860,
@@ -320,7 +320,7 @@
     "timeMonth": 841,
     "timeYear": 838,
     "dailyMinutesDown": {
-      "2025-10-20": 10
+      "2025-10-20": 0
     }
   },
   {
@@ -419,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 1006,
+      "2025-10-20": 1014,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
