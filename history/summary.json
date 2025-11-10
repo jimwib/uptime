@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 297,
-    "timeDay": 383,
-    "timeWeek": 281,
-    "timeMonth": 340,
+    "timeDay": 467,
+    "timeWeek": 305,
+    "timeMonth": 351,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2025-08-29": 33
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
-    "time": 1144,
-    "timeDay": 933,
-    "timeWeek": 1042,
-    "timeMonth": 1047,
-    "timeYear": 1051,
+    "time": 1145,
+    "timeDay": 1293,
+    "timeWeek": 1079,
+    "timeMonth": 1060,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2025-10-01": 385,
       "2025-09-30": 1256,
@@ -55,10 +55,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "34.68%",
-    "time": 2243,
-    "timeDay": 870,
-    "timeWeek": 1130,
-    "timeMonth": 1190,
+    "time": 2240,
+    "timeDay": 1146,
+    "timeWeek": 1114,
+    "timeMonth": 1199,
     "timeYear": 2291,
     "dailyMinutesDown": {
       "2025-10-06": 1147,
@@ -314,11 +314,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 624,
-    "timeWeek": 832,
-    "timeMonth": 907,
-    "timeYear": 852,
+    "time": 861,
+    "timeDay": 1045,
+    "timeWeek": 859,
+    "timeMonth": 919,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-10-20": 15
     }
@@ -335,10 +335,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 766,
-    "timeDay": 578,
-    "timeWeek": 1253,
-    "timeMonth": 986,
-    "timeYear": 784,
+    "timeDay": 865,
+    "timeWeek": 1275,
+    "timeMonth": 994,
+    "timeYear": 785,
     "dailyMinutesDown": {}
   },
   {
@@ -353,10 +353,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 565,
-    "timeWeek": 723,
-    "timeMonth": 887,
-    "timeYear": 782,
+    "timeDay": 856,
+    "timeWeek": 732,
+    "timeMonth": 898,
+    "timeYear": 783,
     "dailyMinutesDown": {}
   },
   {
@@ -370,10 +370,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 768,
-    "timeDay": 444,
-    "timeWeek": 547,
-    "timeMonth": 575,
+    "time": 769,
+    "timeDay": 700,
+    "timeWeek": 570,
+    "timeMonth": 584,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2025-02-02": 18,
@@ -393,11 +393,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 787,
-    "timeWeek": 1058,
-    "timeMonth": 998,
-    "timeYear": 1125,
+    "time": 1044,
+    "timeDay": 1536,
+    "timeWeek": 1153,
+    "timeMonth": 1017,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2024-12-19": 21
     }
@@ -408,7 +408,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "34.34%",
+    "uptime": "34.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -419,7 +419,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 35,
+      "2025-11-10": 35,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -782,8 +783,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -798,10 +798,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.00%",
     "time": 647,
-    "timeDay": 407,
-    "timeWeek": 586,
-    "timeMonth": 593,
-    "timeYear": 689,
+    "timeDay": 658,
+    "timeWeek": 615,
+    "timeMonth": 598,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-02-10": 899,
       "2025-02-09": 1440,
@@ -836,14 +836,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 767,
-    "timeDay": 1012,
-    "timeWeek": 1023,
-    "timeMonth": 655,
+    "time": 768,
+    "timeDay": 1174,
+    "timeWeek": 1064,
+    "timeMonth": 678,
     "timeYear": 693,
-    "dailyMinutesDown": {
-      "2024-11-10": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Senuas Saga Home",
@@ -856,11 +854,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 611,
-    "timeWeek": 762,
-    "timeMonth": 800,
-    "timeYear": 935,
+    "time": 964,
+    "timeDay": 1168,
+    "timeWeek": 813,
+    "timeMonth": 818,
+    "timeYear": 936,
     "dailyMinutesDown": {}
   },
   {
@@ -874,11 +872,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 477,
-    "timeDay": 1839,
-    "timeWeek": 2114,
-    "timeMonth": 2397,
-    "timeYear": 575,
+    "time": 481,
+    "timeDay": 2099,
+    "timeWeek": 2082,
+    "timeMonth": 2428,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-09-22": 140
     }
