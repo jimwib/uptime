@@ -1,7 +1,7 @@
 url: https://admin.audiologic.co.uk/api/articles
-status: up
-code: 200
-responseTime: 595
-lastUpdated: 2025-11-18T11:49:48.913Z
+status: down
+code: 500
+responseTime: 148
+lastUpdated: 2025-11-18T11:56:18.093Z
 startTime: 2023-03-10T11:33:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
