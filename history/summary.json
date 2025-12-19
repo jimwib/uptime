@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.staak.co.uk.ico",
     "slug": "staak",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 316,
-    "timeDay": 2839,
-    "timeWeek": 1021,
-    "timeMonth": 521,
-    "timeYear": 322,
+    "timeDay": 2968,
+    "timeWeek": 1023,
+    "timeMonth": 528,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-12-18": 9,
       "2025-08-29": 33
     }
   },
@@ -30,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.69%",
     "time": 1153,
-    "timeDay": 930,
-    "timeWeek": 1138,
-    "timeMonth": 1112,
-    "timeYear": 1061,
+    "timeDay": 1260,
+    "timeWeek": 1126,
+    "timeMonth": 1106,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-10-01": 385,
       "2025-09-30": 1256
@@ -51,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.49%",
-    "time": 2215,
-    "timeDay": 874,
-    "timeWeek": 1198,
-    "timeMonth": 1177,
-    "timeYear": 2266,
+    "uptimeYear": "35.65%",
+    "time": 2214,
+    "timeDay": 1446,
+    "timeWeek": 1223,
+    "timeMonth": 1181,
+    "timeYear": 2263,
     "dailyMinutesDown": {
       "2025-10-06": 1147,
       "2025-10-05": 1440,
@@ -292,8 +291,7 @@
       "2024-12-23": 686,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -307,11 +305,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 870,
-    "timeDay": 620,
-    "timeWeek": 855,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "time": 871,
+    "timeDay": 1471,
+    "timeWeek": 930,
+    "timeMonth": 881,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-10-20": 15
     }
@@ -328,8 +326,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 770,
-    "timeDay": 537,
-    "timeWeek": 771,
+    "timeDay": 933,
+    "timeWeek": 752,
     "timeMonth": 782,
     "timeYear": 792,
     "dailyMinutesDown": {}
@@ -345,11 +343,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 604,
-    "timeWeek": 794,
-    "timeMonth": 778,
-    "timeYear": 788,
+    "time": 769,
+    "timeDay": 779,
+    "timeWeek": 777,
+    "timeMonth": 770,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -363,10 +361,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 741,
-    "timeDay": 837,
+    "time": 742,
+    "timeDay": 735,
     "timeWeek": 1247,
-    "timeMonth": 795,
+    "timeMonth": 794,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2025-02-02": 18,
@@ -382,16 +380,15 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1066,
-    "timeDay": 545,
-    "timeWeek": 970,
-    "timeMonth": 975,
+    "time": 1067,
+    "timeDay": 1409,
+    "timeWeek": 998,
+    "timeMonth": 997,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2025-11-18": 187,
-      "2024-12-19": 21
+      "2025-11-18": 187
     }
   },
   {
@@ -400,7 +397,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "33.02%",
+    "uptime": "33.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -411,7 +408,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-18": 670,
+      "2025-12-19": 35,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -774,8 +772,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -784,16 +781,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.audiologic.co.uk.ico",
     "slug": "audiologic-api",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.97%",
     "time": 653,
-    "timeDay": 484,
-    "timeWeek": 584,
-    "timeMonth": 556,
-    "timeYear": 684,
+    "timeDay": 686,
+    "timeWeek": 594,
+    "timeMonth": 587,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-11-18": 166,
       "2025-02-10": 899,
@@ -814,8 +811,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 892,
-      "2024-12-19": 21
+      "2025-01-23": 892
     }
   },
   {
@@ -829,10 +825,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 925,
-    "timeWeek": 1104,
-    "timeMonth": 1051,
+    "time": 778,
+    "timeDay": 1094,
+    "timeWeek": 1091,
+    "timeMonth": 1044,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -848,10 +844,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
-    "timeDay": 689,
-    "timeWeek": 882,
-    "timeMonth": 860,
-    "timeYear": 921,
+    "timeDay": 926,
+    "timeWeek": 865,
+    "timeMonth": 857,
+    "timeYear": 920,
     "dailyMinutesDown": {}
   },
   {
@@ -865,11 +861,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 626,
-    "timeDay": 2508,
-    "timeWeek": 2503,
-    "timeMonth": 2102,
-    "timeYear": 776,
+    "time": 629,
+    "timeDay": 1704,
+    "timeWeek": 2322,
+    "timeMonth": 2080,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2025-09-22": 140
     }
