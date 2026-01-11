@@ -408,7 +408,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 356,
+      "2026-01-11": 374,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -855,19 +855,19 @@
     "url": "https://senuassaga.com/news",
     "icon": "https://icons.duckduckgo.com/ip3/senuassaga.com.ico",
     "slug": "senuas-saga-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 718,
-    "timeDay": 2387,
-    "timeWeek": 2101,
-    "timeMonth": 2194,
-    "timeYear": 899,
+    "time": 722,
+    "timeDay": 2235,
+    "timeWeek": 2099,
+    "timeMonth": 2191,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2026-01-11": 0,
+      "2026-01-11": 18,
       "2025-09-22": 140
     }
   }
