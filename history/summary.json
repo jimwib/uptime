@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 328,
-    "timeDay": 393,
-    "timeWeek": 385,
-    "timeMonth": 425,
-    "timeYear": 332,
+    "timeDay": 606,
+    "timeWeek": 387,
+    "timeMonth": 435,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2025-08-29": 33
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.34%",
     "time": 1065,
-    "timeDay": 1061,
-    "timeWeek": 1117,
-    "timeMonth": 1158,
-    "timeYear": 1069,
+    "timeDay": 1226,
+    "timeWeek": 1130,
+    "timeMonth": 1170,
+    "timeYear": 1070,
     "dailyMinutesDown": {
       "2026-01-08": 796,
       "2026-01-07": 1008,
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.bleedingedge.com.ico",
     "slug": "bleeding-edge-forums",
     "status": "up",
-    "uptime": "87.19%",
+    "uptime": "87.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "36.52%",
-    "time": 2112,
-    "timeDay": 1191,
-    "timeWeek": 1213,
-    "timeMonth": 1195,
+    "time": 2111,
+    "timeDay": 1166,
+    "timeWeek": 1178,
+    "timeMonth": 1203,
     "timeYear": 2233,
     "dailyMinutesDown": {
       "2026-01-08": 796,
@@ -305,11 +305,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 869,
-    "timeWeek": 1139,
-    "timeMonth": 1028,
-    "timeYear": 881,
+    "time": 862,
+    "timeDay": 1280,
+    "timeWeek": 1136,
+    "timeMonth": 1043,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2025-10-20": 15
     }
@@ -325,11 +325,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 807,
-    "timeWeek": 780,
-    "timeMonth": 814,
-    "timeYear": 802,
+    "time": 779,
+    "timeDay": 881,
+    "timeWeek": 795,
+    "timeMonth": 824,
+    "timeYear": 803,
     "dailyMinutesDown": {}
   },
   {
@@ -344,10 +344,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 783,
-    "timeWeek": 769,
-    "timeMonth": 801,
-    "timeYear": 783,
+    "timeDay": 849,
+    "timeWeek": 787,
+    "timeMonth": 809,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -361,11 +361,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 731,
-    "timeWeek": 688,
-    "timeMonth": 771,
-    "timeYear": 713,
+    "time": 706,
+    "timeDay": 1104,
+    "timeWeek": 738,
+    "timeMonth": 793,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2025-02-02": 18
     }
@@ -381,10 +381,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1085,
-    "timeDay": 915,
-    "timeWeek": 983,
-    "timeMonth": 1085,
+    "time": 1084,
+    "timeDay": 934,
+    "timeWeek": 982,
+    "timeMonth": 1090,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-11-18": 187
@@ -396,7 +396,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "31.85%",
+    "uptime": "31.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -407,7 +407,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 41,
+      "2026-01-26": 39,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -770,8 +771,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -780,16 +780,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.audiologic.co.uk.ico",
     "slug": "audiologic-api",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.42%",
+    "uptimeYear": "95.70%",
     "time": 660,
-    "timeDay": 651,
-    "timeWeek": 624,
-    "timeMonth": 628,
-    "timeYear": 675,
+    "timeDay": 658,
+    "timeWeek": 625,
+    "timeMonth": 633,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2025-11-18": 166,
       "2025-02-10": 899,
@@ -806,8 +806,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -821,11 +820,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 1252,
-    "timeWeek": 1245,
-    "timeMonth": 1150,
-    "timeYear": 720,
+    "time": 767,
+    "timeDay": 1295,
+    "timeWeek": 1258,
+    "timeMonth": 1172,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -839,11 +838,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 838,
-    "timeWeek": 884,
-    "timeMonth": 899,
-    "timeYear": 907,
+    "time": 946,
+    "timeDay": 971,
+    "timeWeek": 890,
+    "timeMonth": 911,
+    "timeYear": 908,
     "dailyMinutesDown": {}
   },
   {
@@ -857,11 +856,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 778,
-    "timeDay": 2072,
-    "timeWeek": 2064,
-    "timeMonth": 2178,
-    "timeYear": 977,
+    "time": 783,
+    "timeDay": 2493,
+    "timeWeek": 2146,
+    "timeMonth": 2179,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2026-01-11": 18,
       "2025-09-22": 140
