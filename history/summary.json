@@ -331,9 +331,9 @@
     "slug": "ninja-theory-www",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 1474,
@@ -341,7 +341,7 @@
     "timeMonth": 830,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2026-02-26": 0
+      "2026-02-26": 13
     }
   },
   {
@@ -351,17 +351,17 @@
     "slug": "ninja-theory-api",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 716,
     "timeDay": 706,
     "timeWeek": 738,
     "timeMonth": 689,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2026-02-26": 0,
+      "2026-02-26": 13,
       "2026-01-27": 20
     }
   },
@@ -403,7 +403,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-26": 28,
+      "2026-02-26": 41,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
