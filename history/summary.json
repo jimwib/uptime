@@ -4,9 +4,9 @@
     "url": "https://www.staak.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.staak.co.uk.ico",
     "slug": "staak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 323,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2026-03-16": 0,
       "2026-02-13": 51,
       "2025-08-29": 33
     }
@@ -53,7 +54,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.56%",
+    "uptimeYear": "43.76%",
     "time": 2001,
     "timeDay": 1002,
     "timeWeek": 1093,
@@ -377,7 +378,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.audiologic.ie.ico",
     "slug": "audiologic-ie",
     "status": "down",
-    "uptime": "30.41%",
+    "uptime": "30.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -388,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-16": 50,
+      "2026-03-16": 1089,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
