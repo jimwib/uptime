@@ -4,32 +4,10 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Staak
-    url: https://www.staak.co.uk
-  - name: Bleeding Edge
-    url: https://bleedingedge.com
-  - name: Bleeding Edge Forums
-    url: https://forum.bleedingedge.com
-  - name: Johnson Gibbs
-    url: https://johnsongibbs.co.uk
-  - name: Ninja Theory
-    url: https://ninjatheory.com
-  - name: Ninja Theory WWW
-    url: https://www.ninjatheory.com
-  - name: Ninja Theory Api
-    url: https://api.ninjatheory.com
   - name: Audiologic
     url: https://www.audiologic.co.uk/news-and-insights
-  - name: Audiologic ie
-    url: https://www.audiologic.ie/news-and-insights
   - name: Audiologic api
     url: https://admin.audiologic.co.uk/api/articles
-  - name: Bleeding Edge CMS
-    url: https://production-bleedingedge-cms.azurewebsites.net
-  - name: Senuas Saga Home
-    url: https://senuassaga.com
-  - name: Senuas Saga News
-    url: https://senuassaga.com/news
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
